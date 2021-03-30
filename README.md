@@ -54,3 +54,33 @@ DisAdvantage
     4. the user cannot make use of mouse pointer as it is completely inconvenient if the pointer location cannot be traced
     
     5. Not too much friendly for  visually challenged people.
+
+Proposed System
+
+    1. Unlike current system which emphasizes more on user friendliness of normal users, our system focuses more on user 
+        friendliness of all types of people including normal people visually impaired people as well as illiterate people. 
+        The complete system is based on IVR- interactive voice response.
+        
+    2. When using this system the computer will be prompting the user to perform specific operations to avail respective 
+        services and if the user needs to access the respective services then he/she needs to perform that operation. 
+        
+    3. One of the major advantages of this system is that user won’t require to use the keyboard. All operations will be 
+        based on mouse click events. 
+        
+    4. This system will be perfectly accessible to all types of users as it is just based on simple mouse clicks and speech 
+        inputs and there is no need to remember keyboard shortcuts.
+       
+    5. Also because of IVR facility those who cannot read, need not worry as they can listen to the prompting done by the 
+        system and perform respective actions
+
+Advantage
+
+    1. The disabilities of visually impaired people are thrashed .
+   
+    2. This system makes the disabled people feel like a normal user.
+   
+    3. They can hear the recently received mails.
+    
+    4. User will be very well guided with the help of voice commands
+    
+    5. User Friendly
