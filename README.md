@@ -262,8 +262,8 @@ DESIGN
    
        This project is proposed for the betterment of society. This project aims to help the visually impaired
        people to be a part of growing digital India by using internet and also aims to make life of such people
-       quite easy. Also, the success of this project will also encourage developers to build something more useful
-       for visually impaired or illiterate people, who also deserves an equal standard in society
+       quite easy. Also, the success of this project will also encourage developers to build something more
+       useful for visually impaired or illiterate people, who also deserves an equal standard in society
        
   CONCLUSION
         
