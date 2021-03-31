@@ -147,3 +147,101 @@ Design
    Diagrams: Below are some important diagrams which explains the working and will be used in implementing the project.
    
  ![ER_Diagram_project-min-1024x692](https://user-images.githubusercontent.com/53348962/113098808-96b03c00-9216-11eb-89e0-37cbd083ac42.png)
+ 
+  MODULE DESCRIPTION
+  
+    A.  Registration
+    B.  Login
+    C.  Forgot Password
+    D.  Home Page
+    E.  Compose mail
+    F.   Inbox
+    G.  Sent mail
+    H.  Trash
+
+  Implementation
+  
+    This system is currently being developed by us. The following are modules are the ones that are already developed.
+    Their working is as follows:
+
+    A. Registration:
+
+    This is the first module of the system. Any user who wishes to use the system should first register to obtain
+    username and password. This module will collect complete information of the user by prompting the user as to
+    what details needs to be entered. The user will need to speak up the details to which the system will again
+    confirm by prompting alphabetically. If the information is not correct user can re-enter else the prompt will
+    specify the operation to be performed to confirm.
+    
+    B. Login:
+
+    Once the registration is done the user can login to the system. This module will ask the user to provide the
+    username and password. This will be accepted in speech. Speech conversion will be done to text and user will
+    be told to validate whether the details are entered correctly or not. Once the entry is done correctly database
+    will be checked for entry. If the user is authorized it will be directed to homepage.
+    
+    C. Forgot Password:
+
+    In case where an authorized user forgets the password and thus is not able to login he/she can select forgot
+    password module. In this module the user will be first told to enter username. According to username the security
+    question will be searched in database. This is the question provided at time of registration. The question will be
+    spoken out by the computer. The user should in turn specify the answer that was provided by him/her during
+    registration. If both get matched, user is given option to change password.
+    
+    D. Home Page:
+
+    The user is redirected to this page once log in done successfully. From this page now the user can perform operations
+    that the user wishes to perform. The options available are:
+
+        1. Inbox
+
+        2. Compose
+
+        3. Sent mail
+
+        4. Trash
+      
+     Prompting will provide the mouse click operation that needs to be performed for the required service. The double
+     right click event is specifically reserved to log out of the system at any time the user wants to. This will be
+     specified by the prompt right at the beginning after login.
+
+    All these functionalities has been implemented. The modules given below are to be included in the system and will be
+    implemented as a part of the proposed system. The complete walkthrough of this system is given as follows:
+    
+    1. inbox
+    
+        This option helps the user view all the mails that has been received to his/her account. The user can listen to
+        mails he/she wants to by performing the click operation specified by the prompt. 
+
+        In order to navigate through different mails prompt will specify which operations to perform. Each time the mail
+        is selected the user will be prompted as whom the sender is and what is the subject of that particular mail.
+
+        Accordingly user can decide whether the mail needs to be read or not or it should be deleted. Deleted mails will
+        be saved in trash section.
+        
+     2. COMPOSE MAIL
+     
+        Here,User can directly record message that needs to be propagated and can send it. This voice massage will go in
+        form of attachment. The receiver can hear the recording and get the message user wanted to send. User would not
+        require attaching the file. 
+
+        Record option will be provided in the compose window itself. Once recorded it will confirm whether the recording
+        is perfect or not by letting the user hear it and if the user confirms it will be automatically attached to the mail
+        
+     3. SENT MAIL
+        
+        This option will keep a track of all the mails sent by the user. If the user wants to access these mails, this
+        option will provide them with their needs. 
+
+        In order to access the sent mails user will need to perform the actions provided by the prompt to navigate between
+        mails. When the control lands on particular mail user will be prompted as who the receiver was and what is the subject
+        of the mail. 
+
+        This will help the user in efficiently understanding and extracting the required mail.
+        
+      4. TRASH 
+            
+         This option will keep a track of all the mails deleted by the user. Deleted mails could be the ones from inbox or
+         sent mail. If at any time the user needs to retrieve a mail which was deleted it can be done from this option
+
+
+
