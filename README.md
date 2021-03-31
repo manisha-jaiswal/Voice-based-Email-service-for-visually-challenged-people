@@ -127,4 +127,16 @@ Design
         
    After completion of the design phase, we will now start to implement our project
    
-        
+ ![vbes](https://user-images.githubusercontent.com/53348962/113097963-716efe00-9215-11eb-9b52-66f7b80d29d8.jpg)
+ 
+   Level-2 Data Flow Diagram of our system
+   
+ ![vbes1](https://user-images.githubusercontent.com/53348962/113098177-c7dc3c80-9215-11eb-9222-2a6909770f91.jpg)
+   
+   Flow Chart
+   
+ ![main_flowChart-614x1024](https://user-images.githubusercontent.com/53348962/113098449-17226d00-9216-11eb-9907-8f87e20d8c88.jpg)
+
+   Diagrams: Below are some important diagrams which explains the working and will be used in implementing the project.
+   
+ ![ER_Diagram_project-min-1024x692](https://user-images.githubusercontent.com/53348962/113098808-96b03c00-9216-11eb-89e0-37cbd083ac42.png)
