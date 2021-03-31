@@ -30,11 +30,11 @@ Introduction
     without the help of it. It has even become one of the de facto methods used in communication. And out of
     all methods available email is one of the most common forms of communication especially in the business
     world. However not all people can use the internet.This is because in order to access the internet you
-    would need to know what is written on the screen.If that is not visible it is of no use. This makes internet
-    a completely useless technology for the visually impaired and illiterate people. Even the systems that are
-    available currently like the screen readers TTS and ASR do not provide full efficiency to the blind people
-    so as to use the internet. As nearly 285 million people worldwide are estimated visually impaired it become
-    necessary to make internet facilities for communication usable for them also.
+    would need to know what is written on the screen.If that is not visible it is of no use. This makes
+    internet a completely useless technology for the visually impaired and illiterate people. Even the
+    systems that are available currently like the screen readers TTS and ASR do not provide full efficiency
+    to the blind people so as to use the internet. As nearly 285 million people worldwide are estimated
+    visually impaired it become necessary to make internet facilities for communication usable for them also.
 
     Therefore we have come up with this project in which we will be developing a voice based email system which
     will aid the visually impaired people who are naive to computer systems to use email facilities in a hassle
@@ -65,16 +65,17 @@ Existing System
         
 DisAdvantage
     
-    1. The existing system uses mainly  STT (Speech to Text): here whatever we speak will be converted to text
+    1. The existing system uses mainly  STT (Speech to Text): here whatever we speak will be converted 
+        to text
  
-    2. User will be very well guided with the help of voice commands, while registering all the necessary fields
-         to be filled will be read by site, by clicking on that box he/she would have to fill in them
+    2. User will be very well guided with the help of voice commands, while registering all the necessary
+         fields to be filled will be read by site, by clicking on that box he/she would have to fill in them
         
-    3. user has to go to login page and type user id & password which will be recognized through database enabling
-         the correct user to get access to his/her account
+    3. user has to go to login page and type user id & password which will be recognized through database
+         enabling the correct user to get access to his/her account
         
-    4. the user cannot make use of mouse pointer as it is completely inconvenient if the pointer location cannot
-         be traced
+    4. the user cannot make use of mouse pointer as it is completely inconvenient if the pointer location
+         cannot be traced
     
     5. Not too much friendly for  visually challenged people.
 
