@@ -221,6 +221,10 @@ Design
         Accordingly user can decide whether the mail needs to be read or not or it should be deleted. 
         Deleted mails will be saved in trash section.
         
+        Flow Chart
+        
+![inbox](https://user-images.githubusercontent.com/53348962/113104119-cadb2b00-921d-11eb-91f5-e35fa94fd7af.jpg)
+        
      2. COMPOSE MAIL
      
         Here,User can directly record message that needs to be propagated and can send it. This voice massage
