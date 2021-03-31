@@ -228,24 +228,25 @@ Design
         send. User would not require attaching the file. 
 
         Record option will be provided in the compose window itself. Once recorded it will confirm whether the
-        recording is perfect or not by letting the user hear it and if the user confirms it will be automatically
-        attached to the mail
+        recording is perfect or not by letting the user hear it and if the user confirms it will be
+        automatically attached to the mail
         
      3. SENT MAIL
         
-        This option will keep a track of all the mails sent by the user. If the user wants to access these mails,
-        this option will provide them with their needs. 
+        This option will keep a track of all the mails sent by the user. If the user wants to access these
+        mails,this option will provide them with their needs. 
 
-        In order to access the sent mails user will need to perform the actions provided by the prompt to navigate
-        between mails. When the control lands on particular mail user will be prompted as who the receiver was and
-        what is the subject of the mail. 
+        In order to access the sent mails user will need to perform the actions provided by the prompt to
+        navigate between mails. When the control lands on particular mail user will be prompted as who the
+        receiver was and what is the subject of the mail. 
 
         This will help the user in efficiently understanding and extracting the required mail.
         
       4. TRASH 
             
-         This option will keep a track of all the mails deleted by the user. Deleted mails could be the ones from
-         inbox or sent mail. If at any time the user needs to retrieve a mail which was deleted it can be done from this option
+         This option will keep a track of all the mails deleted by the user. Deleted mails could be the
+         ones from inbox or sent mail. If at any time the user needs to retrieve a mail which was deleted it
+         can be done from this option
 
 
 
