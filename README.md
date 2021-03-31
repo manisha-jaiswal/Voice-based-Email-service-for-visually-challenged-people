@@ -3,21 +3,21 @@ Final Year MCA Project
 
 Abstract
     
-    . Due to  simplicity and accessibility, Internet is widely used in almost all the communication applications.
-    In the recent times,number of application based on internet have been developed to make the communication as
-    a more reliable and efficient in nature.Out of this numerous applications, E-mail is the most widely used and
-    reliable way to communicate with each other.
+    .Due to  simplicity and accessibility, Internet is widely used in almost all the communication applications
+    In the recent times,number of application based on internet have been developed to make the communication 
+    as a more reliable and efficient in nature.Out of this numerous applications, E-mail is the most widely
+    used and reliable way to communicate with each other.
     
-    .The usage of e-mail is quiet easy  for regular users but when it comes to the user with visual defect, the
+    .The usage of e-mail is quiet easy  for regular users but when it comes to the user with visual defect,the
     system is yet very difficult to use. This arises a significant need to upgrade the existing system to make
     it more useful for the visually impaired. 
     
-    . Thus, in this Project I used IVR- Interactive voice response, thus enabling everyone to control their mail
+    . Thus,in this Project I used IVR- Interactive voice response, thus enabling everyone to control their mail
     accounts using their voice only and to be able to read,send, and perform all the other useful tasks. The
     system will prompt the user with voice commands to perform certain action and the user will respond to the
     same. 
     
-    . The main benefit of this system is that the use of keyboard is completely eliminated, the user will have
+    . The main benefit of this system is that the use of keyboard is completely eliminated,the user will have
     to respond through voice and mouse click only.
     
     .This system will perform actions based on the clicks only that is left click or right click, it does not
@@ -38,11 +38,11 @@ Introduction
 
     Therefore we have come up with this project in which we will be developing a voice based email system which
     will aid the visually impaired people who are naive to computer systems to use email facilities in a hassle
-    free manner. The users of this system would not need to have any basic information regarding keyboard shortcuts
-    or where the keys are located. All functions are based on simple mouse click operations making it very easy for
-    any type of user to use this system. Also the user need not worry about remembering which mouse click operation
-    he/she needs to perform in order to avail a given service as the system itself will be prompting them as to 
-    which click will provide them with what operations.
+    free manner. The users of this system would not need to have any basic information regarding keyboard
+    shortcuts or where the keys are located. All functions are based on simple mouse click operations making
+    it very easy for any type of user to use this system. Also the user need not worry about remembering which
+    mouse click operation he/she needs to perform in order to avail a given service as the system itself will
+    be prompting them as to which click will provide them with what operations.
 
 Existing System
 
@@ -113,23 +113,23 @@ Design
 
     A. User Interface Design:
         
-        The user interface is designed using Adobe Dreamweaver CS3. The complete website focuses more on efficiency in
-        understanding the IVR rather than the look and feel of the system as the system is primarily developed for the 
-        blind people to whom the look and feel won’t be of that primary importance as the efficiency of understanding
-        the prompting would be.
+        The user interface is designed using Adobe Dreamweaver CS3. The complete website focuses more
+        on efficiency in understanding the IVR rather than the look and feel of the system as the system
+        is primarily developed for the blind people to whom the look and feel won’t be of that primary
+        importance as the efficiency of understanding the prompting would be.
 
     B. Database Design:
         
-        Our system maintains a database for user validation and storing mails of the user. There are a total of five tables.
-        The relationship between them is assigned after much consideration. The E-R diagram of our complete system is 
-        depicted The Inbox, Sent-Mail and Trash schemas will store all mails of the respective service that belongs to that 
-        particular user.
+        Our system maintains a database for user validation and storing mails of the user. There are a total
+        of five tables.The relationship between them is assigned after much consideration. The E-R diagram
+        of our complete system is depicted The Inbox, Sent-Mail and Trash schemas will store all mails of 
+        the respective service that belongs to that particular user.
 
     C. System Design:
         
-        we can see all operations are performed by mouse click events only. Also at some places voice input is required.In
-        this phase a complete flow diagram of the working system is designed. This flow diagram will show the details of 
-        all the events like actions to be performed for an event.
+        we can see all operations are performed by mouse click events only. Also at some places voice input
+        is required.In this phase a complete flow diagram of the working system is designed. This flow diagram
+        will show the details of all the events like actions to be performed for an event.
         
    After completion of the design phase, we will now start to implement our project
    
