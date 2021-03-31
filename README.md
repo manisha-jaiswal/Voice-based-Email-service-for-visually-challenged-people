@@ -231,7 +231,13 @@ Design
         recording is perfect or not by letting the user hear it and if the user confirms it will be
         automatically attached to the mail
         
-     3. SENT MAIL
+        Flow Chart 
+      
+      
+![compose](https://user-images.githubusercontent.com/53348962/113103776-56a08780-921d-11eb-8514-3f3c9d9c8ef8.jpg)
+        
+    
+    3. SENT MAIL
         
         This option will keep a track of all the mails sent by the user. If the user wants to access these
         mails,this option will provide them with their needs. 
