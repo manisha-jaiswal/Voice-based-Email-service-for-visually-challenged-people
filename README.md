@@ -258,5 +258,21 @@ Design
          ones from inbox or sent mail. If at any time the user needs to retrieve a mail which was deleted it
          can be done from this option
 
-
+  APPLICATION
+   
+       This project is proposed for the betterment of society. This project aims to help the visually impaired
+       people to be a part of growing digital India by using internet and also aims to make life of such people
+       quite easy. Also, the success of this project will also encourage developers to build something more useful
+       for visually impaired or illiterate people, who also deserves an equal standard in society
+       
+  Conclusion
+        
+       In this paper we have proposed a system which will help the visually impaired people to access email 
+       services efficiently. This system will help in overcoming some drawbacks that were earlier faced by the
+       blind people in accessing emails. We have eliminated the concept of using keyboard shortcuts along with
+       screen readers which will help reducing the cognitive load of remembering keyboard shortcuts. Also any
+       naive user who does not know the location of keys on the keyboard need not worry as keyboard usage is
+       eliminated. The user only needs to follow the instructions given by the IVR and use mouse clicks accordingly
+       to get the respective services offered. Other than this the user might need to feed in information through
+       voice inputs when specified.
 
