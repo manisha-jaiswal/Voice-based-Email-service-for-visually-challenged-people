@@ -1,7 +1,7 @@
 # Voice-based-Email-service-for-visually-challenged-people
 Final Year MCA Project
 
-Abstract
+ABSTRACT
     
     .Due to  simplicity and accessibility, Internet is widely used in almost all the communication applications
     In the recent times,number of application based on internet have been developed to make the communication 
@@ -24,7 +24,7 @@ Abstract
     depends on the portion of the screen where the cursor is placed before the click giving user the freedom
     to click blindly anywhere on the screen.
     
-Introduction
+INTRODUCTION
 
     Internet is considered as a major storehouse of information in today’s world. No single work can be done
     without the help of it. It has even become one of the de facto methods used in communication. And out of
@@ -44,7 +44,7 @@ Introduction
     mouse click operation he/she needs to perform in order to avail a given service as the system itself will
     be prompting them as to which click will provide them with what operations.
 
-Existing System
+EXISTING SYSTEM
 
     1. The existing system uses mainly three type of technologies like
         STT (Speech to Text): here whatever we speak will be converted to text,
@@ -63,7 +63,7 @@ Existing System
     5. user should be well versed with the keyboard as to where each and every key is located. A user is new
          to computer can therefore not use this service as they are not aware of the key locations.
         
-DisAdvantage
+DISADVANTAGE
     
     1. The existing system uses mainly  STT (Speech to Text): here whatever we speak will be converted 
         to text
@@ -79,7 +79,7 @@ DisAdvantage
     
     5. Not too much friendly for  visually challenged people.
 
-Proposed System
+PROPOSED SYSTEM
 
     1. Unlike current system which emphasizes more on user friendliness of normal users, our system focuses
          more on user friendliness of all types of people including normal people visually impaired people
@@ -98,7 +98,7 @@ Proposed System
     5. Also because of IVR facility those who cannot read, need not worry as they can listen to the prompting
          done by the system and perform respective actions
 
-Advantage
+ADVANTAGE
 
     1. The disabilities of visually impaired people are thrashed .
    
@@ -110,7 +110,7 @@ Advantage
     
     5. User Friendly
 
-Design
+DESIGN
 
     A. User Interface Design:
         
@@ -159,7 +159,7 @@ Design
     G.  Sent mail
     H.  Trash
 
-  Implementation
+  IMPLEMENTATION
   
     This system is currently being developed by us. The following are modules are the ones that are already
     developed. Their working is as follows:
@@ -265,14 +265,14 @@ Design
        quite easy. Also, the success of this project will also encourage developers to build something more useful
        for visually impaired or illiterate people, who also deserves an equal standard in society
        
-  Conclusion
+  CONCLUSION
         
        In this paper we have proposed a system which will help the visually impaired people to access email 
        services efficiently. This system will help in overcoming some drawbacks that were earlier faced by the
        blind people in accessing emails. We have eliminated the concept of using keyboard shortcuts along with
        screen readers which will help reducing the cognitive load of remembering keyboard shortcuts. Also any
        naive user who does not know the location of keys on the keyboard need not worry as keyboard usage is
-       eliminated. The user only needs to follow the instructions given by the IVR and use mouse clicks accordingly
-       to get the respective services offered. Other than this the user might need to feed in information through
-       voice inputs when specified.
+       eliminated. The user only needs to follow the instructions given by the IVR and use mouse clicks
+       accordingly to get the respective services offered. Other than this the user might need to feed in
+       information through voice inputs when specified.
 
