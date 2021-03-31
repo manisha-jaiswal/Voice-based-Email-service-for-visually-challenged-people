@@ -22,6 +22,24 @@ Abstract
     .This system will perform actions based on the clicks only that is left click or right click, it does not depends on the
     portion of the screen where the cursor is placed before the click giving user the freedom to click blindly anywhere on
     the screen.
+    
+Introduction
+
+    Internet is considered as a major storehouse of information in today’s world. No single work can be done without the 
+    help of it. It has even become one of the de facto methods used in communication. And out of all methods available 
+    email is one of the most common forms of communication especially in the business world. However not all people can
+    use the internet.This is because in order to access the internet you would need to know what is written on the screen.
+    If that is not visible it is of no use. This makes internet a completely useless technology for the visually impaired
+    and illiterate people. Even the systems that are available currently like the screen readers TTS and ASR do not provide
+    full efficiency to the blind people so as to use the internet. As nearly 285 million people worldwide are estimated
+    visually impaired it become necessary to make internet facilities for communication usable for them also.
+
+    Therefore we have come up with this project in which we will be developing a voice based email system which will aid the
+    visually impaired people who are naive to computer systems to use email facilities in a hassle free manner. The users of
+    this system would not need to have any basic information regarding keyboard shortcuts or where the keys are located. All
+    functions are based on simple mouse click operations making it very easy for any type of user to use this system. Also 
+    the user need not worry about remembering which mouse click operation he/she needs to perform in order to avail a given
+    service as the system itself will be prompting them as to which click will provide them with what operations.
 
 Existing System
 
@@ -84,3 +102,29 @@ Advantage
     4. User will be very well guided with the help of voice commands
     
     5. User Friendly
+
+Design
+
+    A. User Interface Design:
+        
+        The user interface is designed using Adobe Dreamweaver CS3. The complete website focuses more on efficiency in
+        understanding the IVR rather than the look and feel of the system as the system is primarily developed for the 
+        blind people to whom the look and feel won’t be of that primary importance as the efficiency of understanding
+        the prompting would be.
+
+    B. Database Design:
+        
+        Our system maintains a database for user validation and storing mails of the user. There are a total of five tables.
+        The relationship between them is assigned after much consideration. The E-R diagram of our complete system is 
+        depicted The Inbox, Sent-Mail and Trash schemas will store all mails of the respective service that belongs to that 
+        particular user.
+
+    C. System Design:
+        
+        we can see all operations are performed by mouse click events only. Also at some places voice input is required.In
+        this phase a complete flow diagram of the working system is designed. This flow diagram will show the details of 
+        all the events like actions to be performed for an event.
+        
+   After completion of the design phase, we will now start to implement our project
+   
+        
