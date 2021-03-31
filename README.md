@@ -3,25 +3,25 @@ Final Year MCA Project
 
 Abstract
     
-    . Due to  simplicity and accessibility, Internet is widely used in almost all the communication applications. In the 
-    recent times,number of application based on internet have been developed to make the communication as a more reliable 
-    and efficient in nature.Out of this numerous applications, E-mail is the most widely used and reliable way to 
-    communicate with each other.
+    . Due to  simplicity and accessibility, Internet is widely used in almost all the communication applications. 
+    In the recent times,number of application based on internet have been developed to make the communication as
+    a more reliable and efficient in nature.Out of this numerous applications, E-mail is the most widely used and
+    reliable way to communicate with each other.
     
-    .The usage of e-mail is quiet easy  for regular users but when it comes to the user with visual defect, the system is 
-    yet very difficult to use. This arises a significant need to upgrade the existing system to make it more useful for the 
-    visually impaired. 
+    .The usage of e-mail is quiet easy  for regular users but when it comes to the user with visual defect, the 
+    system is yet very difficult to use. This arises a significant need to upgrade the existing system to make 
+    it more useful for the visually impaired. 
     
-    . Thus, in this Project I used IVR- Interactive voice response, thus enabling everyone to control their mail accounts 
-    using their voice only and to be able to read,send, and perform all the other useful tasks. The system will prompt the
-    user with voice commands to perform certain action and the user will respond to the same. 
+    . Thus, in this Project I used IVR- Interactive voice response, thus enabling everyone to control their mail
+    accounts using their voice only and to be able to read,send, and perform all the other useful tasks. The 
+    system will prompt the user with voice commands to perform certain action and the user will respond to the same. 
     
-    . The main benefit of this system is that the use of keyboard is completely eliminated, the user will have to respond
-    through voice and mouse click only.
+    . The main benefit of this system is that the use of keyboard is completely eliminated, the user will have to
+    respond through voice and mouse click only.
     
-    .This system will perform actions based on the clicks only that is left click or right click, it does not depends on the
-    portion of the screen where the cursor is placed before the click giving user the freedom to click blindly anywhere on
-    the screen.
+    .This system will perform actions based on the clicks only that is left click or right click, it does not depends
+    on the portion of the screen where the cursor is placed before the click giving user the freedom to click blindly
+    anywhere on the screen.
     
 Introduction
 
