@@ -183,7 +183,7 @@ DESIGN
     user will be told to validate whether the details are entered correctly or not. Once the entry is done
     correctly database will be checked for entry. If the user is authorized it will be directed to homepage.
 
-![Login](https://user-images.githubusercontent.com/53348962/113378519-dc930e80-9394-11eb-9d0e-dbe19ea600f3.jpg) 
+ ![Login](https://user-images.githubusercontent.com/53348962/113378519-dc930e80-9394-11eb-9d0e-dbe19ea600f3.jpg) 
     
     C. Forgot Password:
 
@@ -229,7 +229,7 @@ DESIGN
         
         Flow Chart
         
-![Inbox](https://user-images.githubusercontent.com/53348962/113378615-16fcab80-9395-11eb-9f20-07d2681db626.jpg)
+  ![Inbox](https://user-images.githubusercontent.com/53348962/113378615-16fcab80-9395-11eb-9f20-07d2681db626.jpg)
         
      2. COMPOSE MAIL
      
@@ -244,7 +244,7 @@ DESIGN
         Flow Chart 
       
       
-![Compose](https://user-images.githubusercontent.com/53348962/113378653-27148b00-9395-11eb-9cc4-6dd7dc1989a4.jpg)
+  ![Compose](https://user-images.githubusercontent.com/53348962/113378653-27148b00-9395-11eb-9cc4-6dd7dc1989a4.jpg)
         
     
     3. SENT MAIL
@@ -260,7 +260,7 @@ DESIGN
         
         Flow Chart
         
- ![Sent](https://user-images.githubusercontent.com/53348962/113378681-3562a700-9395-11eb-9e99-9c5bf3e40aeb.jpg)
+  ![Sent](https://user-images.githubusercontent.com/53348962/113378681-3562a700-9395-11eb-9e99-9c5bf3e40aeb.jpg)
         
       4. TRASH 
             
@@ -270,7 +270,7 @@ DESIGN
          
          Flow Chart
          
- ![Trash](https://user-images.githubusercontent.com/53348962/113378727-51664880-9395-11eb-9d66-a1a50e51c143.jpg)
+  ![Trash](https://user-images.githubusercontent.com/53348962/113378727-51664880-9395-11eb-9d66-a1a50e51c143.jpg)
 
   APPLICATION
    
