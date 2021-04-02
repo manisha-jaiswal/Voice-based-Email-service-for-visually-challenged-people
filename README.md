@@ -210,6 +210,10 @@ DESIGN
      Prompting will provide the mouse click operation that needs to be performed for the required service.
      The double right click event is specifically reserved to log out of the system at any time the user wants
      to. This will be specified by the prompt right at the beginning after login.
+     
+     Flow chart of Home Page
+     
+   ![Option](https://user-images.githubusercontent.com/53348962/113379247-9c349000-9396-11eb-9182-7015126afbe6.jpg)
 
     All these functionalities has been implemented. The modules given below are to be included in the system
     and will be implemented as a part of the proposed system. The complete walkthrough of this system is 
