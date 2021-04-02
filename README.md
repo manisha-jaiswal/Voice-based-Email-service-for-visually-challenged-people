@@ -148,6 +148,10 @@ DESIGN
    
  ![ER_Diagram_project-min-1024x692](https://user-images.githubusercontent.com/53348962/113098808-96b03c00-9216-11eb-89e0-37cbd083ac42.png)
  
+   Block Diagram
+   
+ ![Block Diagram](https://user-images.githubusercontent.com/53348962/113378776-73f86180-9395-11eb-9c9b-9a07eb0cdb16.jpg)
+ 
   MODULE DESCRIPTION
   
     A.  Registration
@@ -178,6 +182,8 @@ DESIGN
     the username and password. This will be accepted in speech. Speech conversion will be done to text and
     user will be told to validate whether the details are entered correctly or not. Once the entry is done
     correctly database will be checked for entry. If the user is authorized it will be directed to homepage.
+
+![Login](https://user-images.githubusercontent.com/53348962/113378519-dc930e80-9394-11eb-9d0e-dbe19ea600f3.jpg) 
     
     C. Forgot Password:
 
@@ -223,7 +229,7 @@ DESIGN
         
         Flow Chart
         
-![inbox](https://user-images.githubusercontent.com/53348962/113104119-cadb2b00-921d-11eb-91f5-e35fa94fd7af.jpg)
+![Inbox](https://user-images.githubusercontent.com/53348962/113378615-16fcab80-9395-11eb-9f20-07d2681db626.jpg)
         
      2. COMPOSE MAIL
      
@@ -238,7 +244,7 @@ DESIGN
         Flow Chart 
       
       
-![compose](https://user-images.githubusercontent.com/53348962/113103776-56a08780-921d-11eb-8514-3f3c9d9c8ef8.jpg)
+![Compose](https://user-images.githubusercontent.com/53348962/113378653-27148b00-9395-11eb-9cc4-6dd7dc1989a4.jpg)
         
     
     3. SENT MAIL
@@ -252,11 +258,19 @@ DESIGN
 
         This will help the user in efficiently understanding and extracting the required mail.
         
+        Flow Chart
+        
+ ![Sent](https://user-images.githubusercontent.com/53348962/113378681-3562a700-9395-11eb-9e99-9c5bf3e40aeb.jpg)
+        
       4. TRASH 
             
          This option will keep a track of all the mails deleted by the user. Deleted mails could be the
          ones from inbox or sent mail. If at any time the user needs to retrieve a mail which was deleted it
          can be done from this option
+         
+         Flow Chart
+         
+ ![Trash](https://user-images.githubusercontent.com/53348962/113378727-51664880-9395-11eb-9d66-a1a50e51c143.jpg)
 
   APPLICATION
    
