@@ -1,0 +1,10 @@
+https://github.com/Uberi/speech_recognition
+https://github.com/gunthercox/ChatterBot
+https://github.com/abhishekchhibber/Gmail-Api-through-Python/blob/master/gmail_read.py#L24
+https://github.com/RapidWareTech/pyttsx
+https://stackoverflow.com/questions/36523705/python-pocketsphinx-requesterror-missing-pocketsphinx-module-ensure-that-pocke
+sudo apt-get install mpg321
+
+
+http://www.mibqyyo.com/en-articles/2016/04/14/how-does-google-voice-recognition-work/#/vanilla/discussion/embed/?vanilla_discussion_id=0
+https://en.wikipedia.org/wiki/Selenium_(software)
